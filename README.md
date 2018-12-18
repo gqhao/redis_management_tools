@@ -1,7 +1,10 @@
 # redis_management_tools
 ##########对线上redis 群集进行管理和维护###################
+
 1.现状
+
   a.一个group包含至少一个master+slave，以group单位管理
+
   b.目前线上有近上万个groups需要管理
 
 2.目前还有如下功能
